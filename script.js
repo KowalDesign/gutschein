@@ -13,4 +13,4 @@ copyButton.addEventListener("click", function (event) {
     copyIcon.src = "pictures/checkbox.png";
 
     window.open("https://amzn.to/43yL7J4", "_blank");
-});
+}); 
